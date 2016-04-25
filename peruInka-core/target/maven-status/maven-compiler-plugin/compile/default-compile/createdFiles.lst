@@ -1,0 +1,6 @@
+pe\com\peruInka\service\util\Producto.class
+pe\com\peruInka\service\util\Sucursal.class
+pe\com\peruInka\service\services\PeruInkaClienteService.class
+pe\com\peruInka\service\util\Cliente.class
+pe\com\peruInka\service\services\PeruInkaProductoService.class
+pe\com\peruInka\service\services\PeruInkaSucursalService.class

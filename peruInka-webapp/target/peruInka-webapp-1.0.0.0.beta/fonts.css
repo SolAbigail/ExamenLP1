@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?b8gv9l');
+    src:    url('fonts/icomoon.eot?b8gv9l#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?b8gv9l') format('truetype'),
+        url('fonts/icomoon.woff?b8gv9l') format('woff'),
+        url('fonts/icomoon.svg?b8gv9l#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-office:before {
+    content: "\e900";
+}
+.icon-database:before {
+    content: "\e901";
+}
+.icon-user:before {
+    content: "\e902";
+}
+.icon-infinite:before {
+    content: "\e903";
+}
+.icon-chevron-thin-left:before {
+    content: "\e90b";
+}
+.icon-chevron-thin-right:before {
+    content: "\e90c";
+}
+.icon-controller-paus:before {
+    content: "\e90d";
+}
+.icon-controller-play:before {
+    content: "\e90e";
+}
+
